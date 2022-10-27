@@ -1,0 +1,217 @@
+body{
+    margin:0px;
+    text-align: center;
+}
+
+.top{
+    padding-top:30px;
+    margin-top: 0px;
+    position: relative;
+    background-color: #e8f1f0 ;
+}
+
+.first_cloud{
+    margin-top: 25px;
+    position: absolute;
+    right: 300px; 
+    width: 15%;
+}
+
+.lightning1{
+    width:5%;
+    top: 106px;
+    position: absolute;
+    right: 380px;
+}
+
+.lightning1:hover{
+    visibility: hidden;
+}
+
+.lightning2{
+    position: absolute;
+    bottom:250px;
+    left:350px;
+    width: 5%;
+}
+
+.lightning2:hover{
+    visibility: hidden;
+}
+
+.second_cloud{
+    position: absolute;
+    left: 300px;
+    width: 15%;
+}
+
+.intro{
+    width:40%;
+    margin: 150px auto 0px auto;
+    position:relative;
+    top:50px;
+    font-family: 'Sacramento', cursive;
+    font-size:3em; 
+    color:rgb(123, 212, 212);
+}
+
+.intro:hover{
+    color:teal;
+}
+
+.programmer{
+    position: relative;
+    bottom:80px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: 0;
+    font-size:0.5em;
+}
+
+.mid{
+    width:50%;
+    margin:auto;
+}
+
+img{
+    padding-top:40px;
+    width:20%;
+}
+
+.mountain{
+    width:auto;
+}
+
+.head{
+    margin-bottom: 60px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    color:rgb(123, 212, 212);
+}
+
+p{
+    font-family: 'Merriweather', serif;
+    line-height: 2;
+}
+
+hr{
+    max-width:10%;
+    border-style: dotted;
+    border-bottom:0px;
+    border-top-width: 5px;
+    border-color: #c0c0c0;
+}
+
+.My_skills{
+    margin: 70px;
+}
+
+.profile{
+    margin-bottom: 70px;
+}
+
+.contact{
+    margin-top:70px;
+}
+
+.skill_pic{
+    margin:20px;
+}
+
+.coding_skills{
+    float:left;
+}
+
+.camera{
+    float:left;
+}
+
+.code_chef{
+    float:right;
+}
+
+.editing{
+    float: right;
+    position: relative;
+    bottom:40px;
+}
+
+.skill_row{
+    margin:50px auto 50px auto;
+    text-align: left;
+}
+
+h3{
+    font-family:'Josefin Sans', sans-serif;
+    color:teal;
+    font-weight: bold;
+}
+
+.main_head{
+    margin: 0px auto;
+}
+
+a{
+    margin:30px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    color:#34d9cb;
+}
+
+a:hover{
+    color:thistle;
+}
+
+.btn {
+    /* margin-top: 30px; */
+    background: #34d9cb;
+    background-image: -webkit-linear-gradient(top, #34d9cb, #2386a1);
+    background-image: -moz-linear-gradient(top, #34d9cb, #2386a1);
+    background-image: -ms-linear-gradient(top, #34d9cb, #2386a1);
+    background-image: -o-linear-gradient(top, #34d9cb, #2386a1);
+    background-image: linear-gradient(to bottom, #34d9cb, #2386a1);
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 11px;
+    font-family: Courier New;
+    color: #00ffa6;
+    font-size: 21px;
+    padding: 6px 15px 6px 15px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #d1cc49;
+    background-image: -webkit-linear-gradient(top, #d1cc49, #b07523);
+    background-image: -moz-linear-gradient(top, #d1cc49, #b07523);
+    background-image: -ms-linear-gradient(top, #d1cc49, #b07523);
+    background-image: -o-linear-gradient(top, #d1cc49, #b07523);
+    background-image: linear-gradient(to bottom, #d1cc49, #b07523);
+    text-decoration: none;
+  }
+
+.foot{
+    padding-bottom: 30px;
+    margin-top:50px;
+    background-color: #2d8ca7;
+}
+
+.copyright{
+    color:cornsilk;
+}
+
+.nav_bar{
+    position: fixed;
+    top:0px;
+    float:left;
+    width: 10%;
+    background-color: #2d8ca7;
+    padding-top:200px;
+    padding-bottom: 340px;
+}
+
+.nav_links{
+    margin:auto;
+    width: 40%;
+}
+.nav_links:hover{
+    width:20%;
+}

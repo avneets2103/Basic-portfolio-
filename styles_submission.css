@@ -1,0 +1,22 @@
+.head{
+    padding:50px;
+    background-color: rgb(219, 241, 239);
+    font-family: 'Sacramento', cursive;
+    font-size: larger;
+    color:teal;
+}
+a{
+    font-weight: bolder;
+    position: relative;
+    top:40px;
+    padding: 40px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    color:teal;
+}
+a:hover{
+    color:rgb(224, 169, 223);
+}
+.head:hover{
+    background-color: beige;
+    color:rgb(208, 52, 52);
+}

@@ -1,0 +1,76 @@
+.btn {
+    /* margin-top: 30px; */
+    background: #34d9cb;
+    background-image: -webkit-linear-gradient(top, #34d9cb, #2386a1);
+    background-image: -moz-linear-gradient(top, #34d9cb, #2386a1);
+    background-image: -ms-linear-gradient(top, #34d9cb, #2386a1);
+    background-image: -o-linear-gradient(top, #34d9cb, #2386a1);
+    background-image: linear-gradient(to bottom, #34d9cb, #2386a1);
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 11px;
+    font-family: Courier New;
+    color: #00ffa6;
+    font-size: 21px;
+    padding: 6px 15px 6px 15px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #d1cc49;
+    background-image: -webkit-linear-gradient(top, #d1cc49, #b07523);
+    background-image: -moz-linear-gradient(top, #d1cc49, #b07523);
+    background-image: -ms-linear-gradient(top, #d1cc49, #b07523);
+    background-image: -o-linear-gradient(top, #d1cc49, #b07523);
+    background-image: linear-gradient(to bottom, #d1cc49, #b07523);
+    text-decoration: none;
+  }
+
+  body{
+    background-color: #e8f1f0 ;
+  }
+
+  h2{
+    text-align: center;
+    font-family: 'Montserrat Alternates', sans-serif;
+  }
+
+  h4{
+    position: relative;
+    bottom: 20px;
+    font-weight: normal;
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+  }
+
+  .heading{
+    font-size: 30px;
+    line-height: 0.5;
+  }
+
+  .form{
+    width: 40%;
+    text-align: center;
+    margin:auto;
+  }
+
+  label{
+    font-family:'Roboto Condensed', sans-serif;
+  }
+
+  .salutation{
+    font-family: 'Sacramento', cursive;
+  }
+
+  .copyright{
+    font-size: smaller;
+  }
+
+  .foot{
+    color: whitesmoke;
+    background-color: #2386a1;
+    text-align: center;
+    padding: 0 10px 70px 10px;
+    margin:0;
+    font-weight: normal;
+  }
